@@ -1,120 +1,120 @@
 /*
-#1 color = #4ACCD1;
-#2 color = #3fbbc0;
+#1 color = #1177b8;
+#2 color = #46a6e4;
 */
 
 a:hover,
 a:focus {
-    color: #4ACCD1;
+    color: #1177b8;
 }
 
 .circled {
-	background: #4ACCD1;
+	background: #1177b8;
 }
 
-.con1 > div, .con2 > div, .con3 > div { 
-	background-color: #4ACCD1;
+.con1 > div, .con2 > div, .con3 > div {
+	background-color: #1177b8;
 }
 
 .scrollup:hover {
-	background: #4ACCD1;
+	background: #1177b8;
 }
 
 
 /* service */
 
 .service-icon span {
-	color: #4ACCD1;
+	color: #1177b8;
 }
 
 
 
 /* button */
 .btn-skin {
-  background-color: #4ACCD1;
-  border-color: #4ACCD1;
+  background-color: #1177b8;
+  border-color: #1177b8;
 }
 
 
 /* top */
 .top-area {
-	background: #3fbbc0;
+	background: #46a6e4;
 }
 
 /* menu */
 
 .navbar-custom ul.nav ul.dropdown-menu li a:hover {
-	color: #3fbbc0;
+	color: #46a6e4;
 }
 .navbar-custom.top-nav-collapse .nav li a:hover,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li.active a,.navbar-custom.top-nav-collapse .nav li.active a  {
-    color: #3fbbc0;
+    color: #46a6e4;
 }
 
 
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span {
-    background-color: #4ACCD1;
+    background-color: #1177b8;
 }
 
 
 .bg-skin {
-	background: #4ACCD1;
+	background: #1177b8;
 }
 
 .highlight-color {
-	background-color: #4ACCD1;
+	background-color: #1177b8;
 }
 .color {
-	color: #4ACCD1;
+	color: #1177b8;
 }
 
 /* pricing box  */
 .pricing-content.featured h2,.pricing-content.featured .price-bottom {
-	background-color:#3fbbc0;
+	background-color:#46a6e4;
 }
 .pricing-content.featured h3 {
-	background:#4ACCD1;
+	background:#1177b8;
 }
 
 
 
 /* team */
 .cbp-l-grid-team-name {
-    color: #3fbbc0;
+    color: #46a6e4;
 }
 
 .cbp-l-filters-button .cbp-filter-counter {
-	background-color: #4ACCD1;
+	background-color: #1177b8;
 }
 
 .cbp-l-filters-alignLeft .cbp-filter-item-active {
     /* @editable properties */
-    background-color: #4ACCD1;
-    border:1px solid #4ACCD1;
+    background-color: #1177b8;
+    border:1px solid #1177b8;
 }
 
 .cbp-l-filters-dropdownWrap {
-    background: #4ACCD1;
+    background: #1177b8;
 }
 .cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
     /* @editable properties */
-    background-color: #4ACCD1;
-    border-color: #4ACCD1;
+    background-color: #1177b8;
+    border-color: #1177b8;
 }
 .cbp-l-caption-buttonLeft,
 .cbp-l-caption-buttonRight {
     /* @editable properties */
-    background-color: #4ACCD1;
+    background-color: #1177b8;
 }
 
 .cbp-l-caption-buttonLeft:hover,
 .cbp-l-caption-buttonRight:hover {
     /* @editable properties */
-    background-color: #3fbbc0;
+    background-color: #46a6e4;
 }
 
 .form-control:focus {
-  border-color: #3fbbc0;
+  border-color: #46a6e4;
 }

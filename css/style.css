@@ -727,8 +727,7 @@ hr.bold {
 }
 
 .intro-content {
-	background: url(../img/dummy/bg1.jpg) no-repeat top center;
-	padding:200px 0 60px;
+	padding:160px 0 60px;
 }
 .intro-content.intro-nobg {
 	background:#fff;
@@ -1008,8 +1007,8 @@ Elements
 .cbp .cbp-item {
     z-index: 2;
     display: block;
-    width: 240px; /* default width for blocks */
-    height: 250px; /* default height for blocks */
+    width: 800px; /* default width for blocks 240*/
+    height: 400px; /* default height for blocks 250*/
 }
 
 .cbp-filter-item {

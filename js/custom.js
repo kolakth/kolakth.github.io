@@ -19,17 +19,17 @@
 			$(".navbar-brand").addClass("reduce");
 
 			$(".navbar-custom ul.nav ul.dropdown-menu").css("margin-top","11px");
-		
+
 		} else {
 			$(".navbar-fixed-top").removeClass("top-nav-collapse");
 			$(".top-area").removeClass("top-padding");
 			$(".navbar-brand").removeClass("reduce");
 
 			$(".navbar-custom ul.nav ul.dropdown-menu").css("margin-top","16px");
-	
+
 		}
 	});
-	
+
 	//scroll to top
 	$(window).scroll(function(){
 		if ($(this).scrollTop() > 100) {
@@ -42,7 +42,7 @@
 		$("html, body").animate({ scrollTop: 0 }, 1000);
 			return false;
 	});
-	
+
 
 
 	//jQuery for page scrolling feature - requires jQuery Easing plugin
@@ -51,10 +51,10 @@
 			var $anchor = $(this);
 			var nav = $($anchor.attr('href'));
 			if (nav.length) {
-			$('html, body').stop().animate({				
-				scrollTop: $($anchor.attr('href')).offset().top				
+			$('html, body').stop().animate({
+				scrollTop: $($anchor.attr('href')).offset().top
 			}, 1500, 'easeInOutExpo');
-			
+
 			event.preventDefault();
 			}
 		});
@@ -76,7 +76,7 @@
             itemsTabletSmall: [550,2],
             itemsMobile : [480,2],
 	});
-	
+
 	//nivo lightbox
 	$('.owl-carousel .item a').nivoLightbox({
 		effect: 'fadeScale',                             // The effect to use when showing the lightbox
@@ -97,10 +97,10 @@
 	jQuery(".appear").on("appear", function(data) {
 			var id = $(this).attr("id");
 			jQuery('.nav li').removeClass('active');
-			jQuery(".nav a[href='#" + id + "']").parent().addClass("active");					
+			jQuery(".nav a[href='#" + id + "']").parent().addClass("active");
 		});
 
-		
+
 		//parallax
         if ($('.parallax').length)
         {
@@ -114,8 +114,8 @@
             });
 
         }
-		
-		
+
+
 (function ($, window, document, undefined) {
 
     var gridContainer = $('#grid-container'),
@@ -212,12 +212,10 @@
     gridContainer.cubeportfolio('showCounter', filtersContainer.find('.cbp-filter-item'));
 
 })(jQuery, window, document);
-		
-	
+
+
 })(jQuery);
 $(window).load(function() {
 	$(".loader").delay(100).fadeOut();
 	$("#page-loader").delay(100).fadeOut("fast");
 });
-
-	

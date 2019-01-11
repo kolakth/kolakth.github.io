@@ -1007,7 +1007,7 @@ Elements
 .cbp .cbp-item {
     z-index: 2;
     display: block;
-    width: 470px; /* default width for blocks 240*/
+    width: 500px; /* default width for blocks 240*/
     height: 380px; /* default height for blocks 250*/
 }
 

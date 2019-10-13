@@ -1,4 +1,0 @@
-language: node_js
-rvm:
-  - 2.3
-script: "bundle exec jekyll build"

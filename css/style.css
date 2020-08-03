@@ -47,22 +47,22 @@ layout
 }
 @media (max-width: 767px) {
 	#wrapper.boxed {
-		width: 100%;
+		width: 80%;
 	}
 }
 @media (min-width: 768px) {
 	#wrapper.boxed {
-		width: 810px;
+		width: 710px;
 	}
 }
 @media (min-width: 992px) {
 	#wrapper.boxed {
-		width: 1030px;
+		width: 930px;
 	}
 }
 @media (min-width: 1200px) {
 	#wrapper.boxed {
-		width: 1230px;
+		width: 1030px;
 	}
 }
 

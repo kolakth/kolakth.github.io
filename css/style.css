@@ -95,7 +95,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 0 0 30px;
+    margin: 0 0 0px;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
 	color: #444;
@@ -140,7 +140,7 @@ h1.font-light,h2.font-light,h3.font-light,h4.font-light,h5.font-light,h6.font-li
 }
 
 p {
-    margin: 0 0 20px;
+    margin: 0 0 0px;
 
 }
 

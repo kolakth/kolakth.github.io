@@ -568,7 +568,7 @@ hr.bold {
 
 .divider-short-verticle {
 	display: block;
-	width: 1px;
+	width: 5px;
 	height: 60px;
 	margin: 0 auto;
 	margin-bottom: 10px;

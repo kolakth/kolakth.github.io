@@ -566,6 +566,14 @@ hr.bold {
 	margin-bottom: 10px;
 }
 
+.divider-short-verticle {
+	display: block;
+	width: 1px;
+	height: 60px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
 .dividersolid {
 	border-top: 1px solid #eee;
 	margin: 30px 0 30px;

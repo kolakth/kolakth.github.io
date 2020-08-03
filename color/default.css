@@ -44,12 +44,14 @@ a:focus {
 /* menu */
 
 .navbar-custom ul.nav ul.dropdown-menu li a:hover {
-	color: #46a6e4;
+    color: #46a6e4;
+    box-shadow: none;
 }
 .navbar-custom.top-nav-collapse .nav li a:hover,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li.active a,.navbar-custom.top-nav-collapse .nav li.active a  {
     color: #46a6e4;
+    box-shadow: none;
 }
 
 
